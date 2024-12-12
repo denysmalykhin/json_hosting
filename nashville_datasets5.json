@@ -1,0 +1,5025 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "id": "0",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 159,
+                "STANPAR": "150160A07000CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259686,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "BROWN, MARY",
+                "OwnDate": 1163743200000,
+                "SalePrice": 219000,
+                "OwnInstr": "DB-20061122 0144945",
+                "OwnAddr1": "2837 WINDCREST TRL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2837 WINDCREST TRL",
+                "PropHouse": "2837",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 53 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 50,
+                "Side": 99,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 165400,
+                "TotlAppr": 219400,
+                "LandAssd": 13500,
+                "ImprAssd": 41350,
+                "TotlAssd": 54850,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5478.904052734375,
+                "Lat": 36.05986008000008,
+                "Lon": -86.58667623099996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795143.18453372,
+                            629009.708576053
+                        ],
+                        [
+                            1795096.68462671,
+                            628927.908542812
+                        ],
+                        [
+                            1795088.48451188,
+                            628932.708401978
+                        ],
+                        [
+                            1795063.18469372,
+                            628944.908508807
+                        ],
+                        [
+                            1795051.48458588,
+                            628949.308434397
+                        ],
+                        [
+                            1795087.28471114,
+                            629042.008380234
+                        ],
+                        [
+                            1795143.18453372,
+                            629009.708576053
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "1",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 160,
+                "STANPAR": "150160A07700CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259693,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "MANIER, TYRONICIA R.",
+                "OwnDate": 1121403600000,
+                "SalePrice": 197900,
+                "OwnInstr": "DB-20050728 0087934",
+                "OwnAddr1": "2828 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2828 WINDCREST TRL",
+                "PropHouse": "2828",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 60 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.15,
+                "Front": 78,
+                "Side": 111,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 220800,
+                "TotlAppr": 274800,
+                "LandAssd": 13500,
+                "ImprAssd": 55200,
+                "TotlAssd": 68700,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 6680.9029541015625,
+                "Lat": 36.059487115000024,
+                "Lon": -86.58688567899998
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795086.78471214,
+                            628873.509373397
+                        ],
+                        [
+                            1795025.78450605,
+                            628780.808443308
+                        ],
+                        [
+                            1795001.28455505,
+                            628808.308388308
+                        ],
+                        [
+                            1794985.68452063,
+                            628808.108585566
+                        ],
+                        [
+                            1795017.78452206,
+                            628908.208450973
+                        ],
+                        [
+                            1795028.58469731,
+                            628904.808523387
+                        ],
+                        [
+                            1795052.38451847,
+                            628894.908608809
+                        ],
+                        [
+                            1795075.18466972,
+                            628882.908632815
+                        ],
+                        [
+                            1795081.33590414,
+                            628878.642237142
+                        ],
+                        [
+                            1795086.78471214,
+                            628873.509373397
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "2",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 161,
+                "STANPAR": "150160A07800CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259694,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "GAFUROV, JAMSHID & ABDULLAKHOJAEVA, SHOKHLDA",
+                "OwnDate": 1604383200000,
+                "SalePrice": 319900,
+                "OwnInstr": "DB-20201112 0133193",
+                "OwnAddr1": "2824 WINDCREST TRL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2824 WINDCREST TRL",
+                "PropHouse": "2824",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 61 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.3,
+                "Front": 108,
+                "Side": 105,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 305800,
+                "TotlAppr": 359800,
+                "LandAssd": 13500,
+                "ImprAssd": 76450,
+                "TotlAssd": 89950,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12832.301147460938,
+                "Lat": 36.05953132900004,
+                "Lon": -86.58718428799995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795017.78452206,
+                            628908.208450973
+                        ],
+                        [
+                            1794985.68452063,
+                            628808.108585566
+                        ],
+                        [
+                            1794891.28444697,
+                            628806.807735145
+                        ],
+                        [
+                            1794889.02821788,
+                            628813.211265638
+                        ],
+                        [
+                            1794887.58760397,
+                            628819.846094891
+                        ],
+                        [
+                            1794886.98458681,
+                            628826.608548567
+                        ],
+                        [
+                            1794886.08531038,
+                            628896.508671224
+                        ],
+                        [
+                            1794886.39764573,
+                            628900.605775893
+                        ],
+                        [
+                            1794887.37172514,
+                            628904.597565815
+                        ],
+                        [
+                            1794888.98097388,
+                            628908.378070056
+                        ],
+                        [
+                            1794891.18339731,
+                            628911.846567065
+                        ],
+                        [
+                            1794893.91994038,
+                            628914.911521554
+                        ],
+                        [
+                            1794897.11809672,
+                            628917.491568893
+                        ],
+                        [
+                            1794900.69256464,
+                            628919.517155394
+                        ],
+                        [
+                            1794904.54918422,
+                            628920.935459644
+                        ],
+                        [
+                            1794908.58460923,
+                            628921.708423972
+                        ],
+                        [
+                            1794930.88902655,
+                            628921.86984098
+                        ],
+                        [
+                            1794953.18458563,
+                            628921.208424971
+                        ],
+                        [
+                            1794978.78460005,
+                            628918.008628234
+                        ],
+                        [
+                            1795003.98468089,
+                            628912.508639231
+                        ],
+                        [
+                            1795017.78452206,
+                            628908.208450973
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "3",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 163,
+                "STANPAR": "150160A08500CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259701,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "PROGRESS RESIDENTIAL BORROWERS 8, LLC",
+                "OwnDate": 1556168400000,
+                "SalePrice": 1727900,
+                "OwnInstr": "DB-20190507 0042837",
+                "OwnAddr1": "P O BOX 4090",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "SCOTTSDALE",
+                "OwnState": "AZ",
+                "OwnCountry": "US        ",
+                "OwnZip": "85261",
+                "PropAddr": "2820 WINDCREST TRL",
+                "PropHouse": "2820",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 68 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.2,
+                "Front": 52,
+                "Side": 110,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 204600,
+                "TotlAppr": 258600,
+                "LandAssd": 13500,
+                "ImprAssd": 51150,
+                "TotlAssd": 64650,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 8776.12744140625,
+                "Lat": 36.05952803300005,
+                "Lon": -86.58767985299994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794775.88474339,
+                            628921.508621231
+                        ],
+                        [
+                            1794810.58447714,
+                            628920.508623227
+                        ],
+                        [
+                            1794814.78459997,
+                            628920.608688638
+                        ],
+                        [
+                            1794819.12743905,
+                            628920.273387477
+                        ],
+                        [
+                            1794823.34691881,
+                            628919.191040561
+                        ],
+                        [
+                            1794827.31475864,
+                            628917.393800065
+                        ],
+                        [
+                            1794830.91153622,
+                            628914.936783984
+                        ],
+                        [
+                            1794834.02832788,
+                            628911.893811062
+                        ],
+                        [
+                            1794836.57097372,
+                            628908.357400805
+                        ],
+                        [
+                            1794838.46270221,
+                            628904.433524147
+                        ],
+                        [
+                            1794839.64609881,
+                            628900.241603389
+                        ],
+                        [
+                            1794840.08540238,
+                            628895.907622561
+                        ],
+                        [
+                            1794840.9846788,
+                            628826.00848414
+                        ],
+                        [
+                            1794840.71827513,
+                            628820.124309555
+                        ],
+                        [
+                            1794839.78454997,
+                            628814.308704391
+                        ],
+                        [
+                            1794751.78472596,
+                            628813.208640978
+                        ],
+                        [
+                            1794763.08457214,
+                            628923.008618221
+                        ],
+                        [
+                            1794775.88474339,
+                            628921.508621231
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "4",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 166,
+                "STANPAR": "150160A09100CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259707,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "BECTON, DERRICK",
+                "OwnDate": 1114405200000,
+                "SalePrice": 206500,
+                "OwnInstr": "DB-20050428 0047542",
+                "OwnAddr1": "2792 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2792 WINDCREST TRL",
+                "PropHouse": "2792",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 102 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.23,
+                "Front": 75,
+                "Side": 100,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 226600,
+                "TotlAppr": 280600,
+                "LandAssd": 13500,
+                "ImprAssd": 56650,
+                "TotlAssd": 70150,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 9861.451904296875,
+                "Lat": 36.060001406000026,
+                "Lon": -86.58912900599995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794428.48451956,
+                            629040.9086449
+                        ],
+                        [
+                            1794392.08367372,
+                            628972.808387399
+                        ],
+                        [
+                            1794303.98444048,
+                            629020.008424222
+                        ],
+                        [
+                            1794351.1844773,
+                            629108.20837906
+                        ],
+                        [
+                            1794417.28473881,
+                            629072.808515474
+                        ],
+                        [
+                            1794420.73092614,
+                            629070.560160398
+                        ],
+                        [
+                            1794423.76471272,
+                            629067.779982224
+                        ],
+                        [
+                            1794426.30440581,
+                            629064.542455897
+                        ],
+                        [
+                            1794428.28242022,
+                            629060.934195399
+                        ],
+                        [
+                            1794429.64527839,
+                            629057.05165723
+                        ],
+                        [
+                            1794430.35721922,
+                            629052.998843804
+                        ],
+                        [
+                            1794430.3988858,
+                            629048.884022638
+                        ],
+                        [
+                            1794429.76896581,
+                            629044.817757815
+                        ],
+                        [
+                            1794428.48451956,
+                            629040.9086449
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "5",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 167,
+                "STANPAR": "150160A09300CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259709,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "ROCHELLE CENTER, THE",
+                "OwnDate": 1591851600000,
+                "SalePrice": 265000,
+                "OwnInstr": "DB-20200707 0072947",
+                "OwnAddr1": "1020 SOUTHSIDE CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "NASHVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37203",
+                "PropAddr": "2784 WINDCREST TRL",
+                "PropHouse": "2784",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 104 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 53,
+                "Side": 115,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 203500,
+                "TotlAppr": 257500,
+                "LandAssd": 0,
+                "ImprAssd": 0,
+                "TotlAssd": 0,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5621.53125,
+                "Lat": 36.06015244900004,
+                "Lon": -86.58951016599997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794307.08449988,
+                            629131.808397472
+                        ],
+                        [
+                            1794257.48453347,
+                            629039.20851706
+                        ],
+                        [
+                            1794209.08469589,
+                            629053.708488062
+                        ],
+                        [
+                            1794260.58459289,
+                            629156.208611146
+                        ],
+                        [
+                            1794269.1846413,
+                            629152.108553723
+                        ],
+                        [
+                            1794307.08449988,
+                            629131.808397472
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "6",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 168,
+                "STANPAR": "150160A09400CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259710,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "LARKIN, RESHONDA",
+                "OwnDate": 1250830800000,
+                "SalePrice": 132000,
+                "OwnInstr": "DB-20090904 0083690",
+                "OwnAddr1": "2780 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2780 WINDCREST TRL",
+                "PropHouse": "2780",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 105 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.14,
+                "Front": 61,
+                "Side": 119,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 179800,
+                "TotlAppr": 233800,
+                "LandAssd": 13500,
+                "ImprAssd": 44950,
+                "TotlAssd": 58450,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5985.9697265625,
+                "Lat": 36.06021125400008,
+                "Lon": -86.58966709199996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794260.58459289,
+                            629156.208611146
+                        ],
+                        [
+                            1794209.08469589,
+                            629053.708488062
+                        ],
+                        [
+                            1794169.48470947,
+                            629065.608398646
+                        ],
+                        [
+                            1794204.08470589,
+                            629179.008434311
+                        ],
+                        [
+                            1794208.68443422,
+                            629177.709224313
+                        ],
+                        [
+                            1794239.58365063,
+                            629166.308656558
+                        ],
+                        [
+                            1794260.58459289,
+                            629156.208611146
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "7",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 215,
+                "STANPAR": "15005026800",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259978,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "RABINER, CAROLINE",
+                "OwnDate": 1649739600000,
+                "SalePrice": 371000,
+                "OwnInstr": "DB-20220420 0045487",
+                "OwnAddr1": "2961 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2961 MOSSDALE DR",
+                "PropHouse": "2961",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 258 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004786 0000012",
+                "PropDate": 128584800000,
+                "Acres": 0.27,
+                "Front": 83,
+                "Side": 162,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 171800,
+                "TotlAppr": 216800,
+                "LandAssd": 11250,
+                "ImprAssd": 42950,
+                "TotlAssd": 54200,
+                "AssessDate": 1672552800000,
+                "Zoning": "RS10",
+                "Shape__Area": 10322.535766601562,
+                "Lat": 36.07478520400008,
+                "Lon": -86.61936012799998
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785536.28051922,
+                            634437.485122055
+                        ],
+                        [
+                            1785429.96773972,
+                            634435.955269471
+                        ],
+                        [
+                            1785373.16864072,
+                            634499.955469564
+                        ],
+                        [
+                            1785532.08991081,
+                            634522.658508137
+                        ],
+                        [
+                            1785534.56792422,
+                            634494.327528059
+                        ],
+                        [
+                            1785535.96555921,
+                            634465.922729224
+                        ],
+                        [
+                            1785536.28051922,
+                            634437.485122055
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "8",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 216,
+                "STANPAR": "15005026900",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259979,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "LEWIS, CARLETTA L.",
+                "OwnDate": 1531717200000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20180718 0070158",
+                "OwnAddr1": "2710 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "NASHVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37217",
+                "PropAddr": "2957 MOSSDALE DR",
+                "PropHouse": "2957",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 257 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000688",
+                "PropDate": 111646800000,
+                "Acres": 0.31,
+                "Front": 80,
+                "Side": 200,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 177100,
+                "TotlAppr": 222100,
+                "LandAssd": 11250,
+                "ImprAssd": 44275,
+                "TotlAssd": 55525,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 13022.355834960938,
+                "Lat": 36.07497556200008,
+                "Lon": -86.61946659999995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785532.08991081,
+                            634522.658508137
+                        ],
+                        [
+                            1785373.16864072,
+                            634499.955469564
+                        ],
+                        [
+                            1785359.56860231,
+                            634514.355375141
+                        ],
+                        [
+                            1785321.16841663,
+                            634557.555419981
+                        ],
+                        [
+                            1785352.36848547,
+                            634563.955341563
+                        ],
+                        [
+                            1785520.01021056,
+                            634598.585521638
+                        ],
+                        [
+                            1785524.9048858,
+                            634573.419889554
+                        ],
+                        [
+                            1785528.93309297,
+                            634548.100714475
+                        ],
+                        [
+                            1785532.08991081,
+                            634522.658508137
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "9",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 217,
+                "STANPAR": "15005027000",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259980,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "FAULKERSON, MELROSE",
+                "OwnDate": 713768400000,
+                "SalePrice": 0,
+                "OwnInstr": "QC-00009207 0000027",
+                "OwnAddr1": "P O BOX 1007",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37011",
+                "PropAddr": "2953 MOSSDALE DR",
+                "PropHouse": "2953",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 349 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000375",
+                "PropDate": 111646800000,
+                "Acres": 0.25,
+                "Front": 80,
+                "Side": 170,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 197200,
+                "TotlAppr": 242200,
+                "LandAssd": 11250,
+                "ImprAssd": 49300,
+                "TotlAssd": 60550,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 10280.044799804688,
+                "Lat": 36.07516930600008,
+                "Lon": -86.61945455899996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785520.01021056,
+                            634598.585521638
+                        ],
+                        [
+                            1785352.36848547,
+                            634563.955341563
+                        ],
+                        [
+                            1785389.16860873,
+                            634639.95551765
+                        ],
+                        [
+                            1785499.9108413,
+                            634673.728087887
+                        ],
+                        [
+                            1785507.47939572,
+                            634648.918426231
+                        ],
+                        [
+                            1785514.18181014,
+                            634623.860733554
+                        ],
+                        [
+                            1785520.01021056,
+                            634598.585521638
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "10",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 218,
+                "STANPAR": "15005027600",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259986,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "JACKSON, YOLANDER B.",
+                "OwnDate": 1225692000000,
+                "SalePrice": 0,
+                "OwnInstr": "QC-20081120 0114253",
+                "OwnAddr1": "2908 ROGERS CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2908 ROGERS CT",
+                "PropHouse": "2908",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 355 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000688",
+                "PropDate": 111646800000,
+                "Acres": 0.29,
+                "Front": 35,
+                "Side": 151,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 153200,
+                "TotlAppr": 198200,
+                "LandAssd": 11250,
+                "ImprAssd": 38300,
+                "TotlAssd": 49550,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12832.75439453125,
+                "Lat": 36.075666581000064,
+                "Lon": -86.62044151299995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785136.36858939,
+                            634883.95535773
+                        ],
+                        [
+                            1785165.16840056,
+                            634873.555444151
+                        ],
+                        [
+                            1785225.9684758,
+                            634741.555380061
+                        ],
+                        [
+                            1785218.9350253,
+                            634737.666936398
+                        ],
+                        [
+                            1785212.50951321,
+                            634732.838862062
+                        ],
+                        [
+                            1785206.81759547,
+                            634727.16498889
+                        ],
+                        [
+                            1785201.9685238,
+                            634720.755552888
+                        ],
+                        [
+                            1785075.56851414,
+                            634783.955557734
+                        ],
+                        [
+                            1785101.96839572,
+                            634833.555524141
+                        ],
+                        [
+                            1785129.16847256,
+                            634886.355287313
+                        ],
+                        [
+                            1785136.36858939,
+                            634883.95535773
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "11",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 219,
+                "STANPAR": "15005027700",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259987,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "BASSHAM, JAMES SR. & ALEXANDER, MILDRED B.",
+                "OwnDate": 1654750800000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20220629 0074819",
+                "OwnAddr1": "2904 ROGERS CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2904 ROGERS CT",
+                "PropHouse": "2904",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 356 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004791 0000520",
+                "PropDate": 130744800000,
+                "Acres": 0.23,
+                "Front": 93,
+                "Side": 151,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 190200,
+                "TotlAppr": 235200,
+                "LandAssd": 11250,
+                "ImprAssd": 47550,
+                "TotlAssd": 58800,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 10234.13720703125,
+                "Lat": 36.07566996600008,
+                "Lon": -86.62013379199999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785201.9685238,
+                            634860.755272895
+                        ],
+                        [
+                            1785277.96869989,
+                            634833.555524141
+                        ],
+                        [
+                            1785315.56934647,
+                            634759.955277637
+                        ],
+                        [
+                            1785290.76854305,
+                            634747.155434474
+                        ],
+                        [
+                            1785283.03036955,
+                            634744.604258478
+                        ],
+                        [
+                            1785275.00348271,
+                            634743.204654977
+                        ],
+                        [
+                            1785266.85881397,
+                            634742.986807644
+                        ],
+                        [
+                            1785258.76860705,
+                            634743.955309644
+                        ],
+                        [
+                            1785252.19841021,
+                            634745.258456647
+                        ],
+                        [
+                            1785245.51338422,
+                            634745.669545054
+                        ],
+                        [
+                            1785238.83327948,
+                            634745.180700898
+                        ],
+                        [
+                            1785232.27883063,
+                            634743.801110476
+                        ],
+                        [
+                            1785225.9684758,
+                            634741.555380061
+                        ],
+                        [
+                            1785165.16840056,
+                            634873.555444151
+                        ],
+                        [
+                            1785201.9685238,
+                            634860.755272895
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "12",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 220,
+                "STANPAR": "15005027800",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259988,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "HUCKABY, HAROLD D & KENNETH WAYNE",
+                "OwnDate": 1503637200000,
+                "SalePrice": 0,
+                "OwnInstr": "QC-20170828 0088016",
+                "OwnAddr1": "2945 MOSSDALE DR",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2945 MOSSDALE DR",
+                "PropHouse": "2945",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 357 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004857 0000540",
+                "PropDate": 149835600000,
+                "Acres": 0.28,
+                "Front": 75,
+                "Side": 129,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 196700,
+                "TotlAppr": 241700,
+                "LandAssd": 11250,
+                "ImprAssd": 49175,
+                "TotlAssd": 60425,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12233.36328125,
+                "Lat": 36.07575973500008,
+                "Lon": -86.61975014499995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785416.36868556,
+                            634811.95550172
+                        ],
+                        [
+                            1785315.56934647,
+                            634759.955277637
+                        ],
+                        [
+                            1785277.96869989,
+                            634833.555524141
+                        ],
+                        [
+                            1785389.20797873,
+                            634909.098680139
+                        ],
+                        [
+                            1785402.88216397,
+                            634886.737176314
+                        ],
+                        [
+                            1785415.7082538,
+                            634863.878626227
+                        ],
+                        [
+                            1785427.66853172,
+                            634840.555510148
+                        ],
+                        [
+                            1785428.78860822,
+                            634836.958076388
+                        ],
+                        [
+                            1785429.28565447,
+                            634833.223175734
+                        ],
+                        [
+                            1785429.14556289,
+                            634829.458419472
+                        ],
+                        [
+                            1785428.37194239,
+                            634825.770762816
+                        ],
+                        [
+                            1785426.98743072,
+                            634822.26650472
+                        ],
+                        [
+                            1785425.03172597,
+                            634819.046366811
+                        ],
+                        [
+                            1785422.56060231,
+                            634816.202212393
+                        ],
+                        [
+                            1785419.64492571,
+                            634813.815734223
+                        ],
+                        [
+                            1785416.36868556,
+                            634811.95550172
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "13",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 341,
+                "STANPAR": "150160A05000CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259214,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "COX, NIKKI D",
+                "OwnDate": 1613973600000,
+                "SalePrice": 282000,
+                "OwnInstr": "DB-20210301 0025485",
+                "OwnAddr1": "3209 SAILMIST PT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "3209 SAILMIST PT",
+                "PropHouse": "3209",
+                "PropFraction": null,
+                "PropStreet": "SAILMIST  PT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 34 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.17,
+                "Front": 51,
+                "Side": 130,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 226900,
+                "TotlAppr": 280900,
+                "LandAssd": 13500,
+                "ImprAssd": 56725,
+                "TotlAssd": 70225,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 7302.4090576171875,
+                "Lat": 36.06101393600005,
+                "Lon": -86.58953367399994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794306.98443447,
+                            629376.108433813
+                        ],
+                        [
+                            1794301.04743847,
+                            629372.194727734
+                        ],
+                        [
+                            1794295.79941747,
+                            629367.396508977
+                        ],
+                        [
+                            1794291.37094864,
+                            629361.83287181
+                        ],
+                        [
+                            1794287.8716118,
+                            629355.64259547
+                        ],
+                        [
+                            1794285.38900521,
+                            629348.979222983
+                        ],
+                        [
+                            1794283.98448047,
+                            629342.008436397
+                        ],
+                        [
+                            1794283.30895689,
+                            629337.710872814
+                        ],
+                        [
+                            1794282.1846153,
+                            629333.508453399
+                        ],
+                        [
+                            1794193.48466147,
+                            629427.808461651
+                        ],
+                        [
+                            1794249.6846803,
+                            629480.508487478
+                        ],
+                        [
+                            1794306.98443447,
+                            629376.108433813
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "14",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 342,
+                "STANPAR": "150160A05100CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259215,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "KASSAHUN, ERMIAS",
+                "OwnDate": 1502773200000,
+                "SalePrice": 230000,
+                "OwnInstr": "DB-20171031 0111284",
+                "OwnAddr1": "3213 SAILMIST PT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "3213 SAILMIST PT",
+                "PropHouse": "3213",
+                "PropFraction": null,
+                "PropStreet": "SAILMIST  PT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 35 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.16,
+                "Front": 35,
+                "Side": 119,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 244000,
+                "TotlAppr": 298000,
+                "LandAssd": 13500,
+                "ImprAssd": 61000,
+                "TotlAssd": 74500,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 7050.4781494140625,
+                "Lat": 36.061086971000066,
+                "Lon": -86.58934141699996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794362.88458514,
+                            629457.008534476
+                        ],
+                        [
+                            1794340.98469456,
+                            629380.00868848
+                        ],
+                        [
+                            1794334.10642748,
+                            629381.366297305
+                        ],
+                        [
+                            1794327.10119213,
+                            629381.649105147
+                        ],
+                        [
+                            1794320.13598298,
+                            629380.85022223
+                        ],
+                        [
+                            1794313.37648205,
+                            629378.988349304
+                        ],
+                        [
+                            1794306.98443447,
+                            629376.108433813
+                        ],
+                        [
+                            1794249.6846803,
+                            629480.508487478
+                        ],
+                        [
+                            1794259.28472672,
+                            629489.508469477
+                        ],
+                        [
+                            1794362.88458514,
+                            629457.008534476
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "15",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 343,
+                "STANPAR": "150160A05200CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259216,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "DERESU, KASHU & BIFTU",
+                "OwnDate": 1282798800000,
+                "SalePrice": 134000,
+                "OwnInstr": "DB-20101014 0082259",
+                "OwnAddr1": "3212 SAILMIST PT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "3212 SAILMIST PT",
+                "PropHouse": "3212",
+                "PropFraction": null,
+                "PropStreet": "SAILMIST  PT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 36 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.14,
+                "Front": 37,
+                "Side": 103,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 197900,
+                "TotlAppr": 251900,
+                "LandAssd": 13500,
+                "ImprAssd": 49475,
+                "TotlAssd": 62975,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 6081.7137451171875,
+                "Lat": 36.06100725600004,
+                "Lon": -86.58907397299998
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794459.88471922,
+                            629405.408572063
+                        ],
+                        [
+                            1794368.48463956,
+                            629357.608470812
+                        ],
+                        [
+                            1794364.59488356,
+                            629363.765938804
+                        ],
+                        [
+                            1794359.7632003,
+                            629369.215731055
+                        ],
+                        [
+                            1794354.11622997,
+                            629373.815787479
+                        ],
+                        [
+                            1794347.80193813,
+                            629377.445045307
+                        ],
+                        [
+                            1794340.98469456,
+                            629380.00868848
+                        ],
+                        [
+                            1794362.88458514,
+                            629457.008534476
+                        ],
+                        [
+                            1794380.18474738,
+                            629451.608610898
+                        ],
+                        [
+                            1794459.88471922,
+                            629405.408572063
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "16",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 344,
+                "STANPAR": "150160A05300CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259217,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "BTRA V, LLC",
+                "OwnDate": 1400734800000,
+                "SalePrice": 147100,
+                "OwnInstr": "DB-20140602 0047428",
+                "OwnAddr1": "5001 PLAZA ON THE LAKE STE 200",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "AUSTIN",
+                "OwnState": "TX",
+                "OwnCountry": "US        ",
+                "OwnZip": "78746",
+                "PropAddr": "3208 SAILMIST PT",
+                "PropHouse": "3208",
+                "PropFraction": null,
+                "PropStreet": "SAILMIST  PT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 37 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.16,
+                "Front": 33,
+                "Side": 115,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 184800,
+                "TotlAppr": 238800,
+                "LandAssd": 13500,
+                "ImprAssd": 46200,
+                "TotlAssd": 59700,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 7186.418701171875,
+                "Lat": 36.060845088000065,
+                "Lon": -86.58893219599997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794483.48473763,
+                            629297.0085264
+                        ],
+                        [
+                            1794372.28450072,
+                            629325.508469388
+                        ],
+                        [
+                            1794373.43115197,
+                            629332.013377637
+                        ],
+                        [
+                            1794373.61815947,
+                            629338.61572665
+                        ],
+                        [
+                            1794372.84158622,
+                            629345.17509672
+                        ],
+                        [
+                            1794371.11849256,
+                            629351.55139631
+                        ],
+                        [
+                            1794368.48463956,
+                            629357.608470812
+                        ],
+                        [
+                            1794459.88471922,
+                            629405.408572063
+                        ],
+                        [
+                            1794483.48473763,
+                            629297.0085264
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "17",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 346,
+                "STANPAR": "150160A05800CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259222,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "YAMASA CO., LTD",
+                "OwnDate": 1697000400000,
+                "SalePrice": 374000,
+                "OwnInstr": "DB-20231013 0080601",
+                "OwnAddr1": "PO BOX 4090",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "SCOTTSDALE",
+                "OwnState": "AZ",
+                "OwnCountry": "US        ",
+                "OwnZip": "85261",
+                "PropAddr": "2805 WINDCREST TRL",
+                "PropHouse": "2805",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 41 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 50,
+                "Side": 110,
+                "IsRegular": "Y",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 218400,
+                "TotlAppr": 272400,
+                "LandAssd": 13500,
+                "ImprAssd": 54600,
+                "TotlAssd": 68100,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5498.876708984375,
+                "Lat": 36.060202580000066,
+                "Lon": -86.58847018799997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794613.98447664,
+                            629149.008494318
+                        ],
+                        [
+                            1794561.98458064,
+                            629052.008688316
+                        ],
+                        [
+                            1794517.98466864,
+                            629075.608378649
+                        ],
+                        [
+                            1794569.88384305,
+                            629172.608512729
+                        ],
+                        [
+                            1794613.98447664,
+                            629149.008494318
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "18",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 347,
+                "STANPAR": "150160A05900CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259223,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "PROGESS RESIDENTIAL BORROWER 3. LLC",
+                "OwnDate": 1519279200000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20180223 0017491",
+                "OwnAddr1": "P O BOX 4090",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "SCOTTSDALE",
+                "OwnState": "AZ",
+                "OwnCountry": "US        ",
+                "OwnZip": "85261",
+                "PropAddr": "2809 WINDCREST TRL",
+                "PropHouse": "2809",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 42 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 50,
+                "Side": 110,
+                "IsRegular": "Y",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 181600,
+                "TotlAppr": 235600,
+                "LandAssd": 13500,
+                "ImprAssd": 45400,
+                "TotlAssd": 58900,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5498.8736572265625,
+                "Lat": 36.06013840400004,
+                "Lon": -86.58832074099996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794657.98471671,
+                            629125.408475891
+                        ],
+                        [
+                            1794606.08455805,
+                            629028.408669889
+                        ],
+                        [
+                            1794561.98458064,
+                            629052.008688316
+                        ],
+                        [
+                            1794613.98447664,
+                            629149.008494318
+                        ],
+                        [
+                            1794657.98471671,
+                            629125.408475891
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "19",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 348,
+                "STANPAR": "150160A06800CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259235,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "CAVANAUGH, DAVID A.",
+                "OwnDate": 1252386000000,
+                "SalePrice": 132000,
+                "OwnInstr": "DB-20091015 0095440",
+                "OwnAddr1": "2829 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2829 WINDCREST TRL",
+                "PropHouse": "2829",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 51 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.16,
+                "Front": 50,
+                "Side": 115,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 217100,
+                "TotlAppr": 271100,
+                "LandAssd": 13500,
+                "ImprAssd": 54275,
+                "TotlAssd": 67775,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 6826.9771728515625,
+                "Lat": 36.05998079200003,
+                "Lon": -86.58703628899997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795028.68443464,
+                            629076.008640304
+                        ],
+                        [
+                            1795003.78553431,
+                            628963.808405399
+                        ],
+                        [
+                            1794982.58446123,
+                            628968.009512484
+                        ],
+                        [
+                            1794954.38471447,
+                            628971.208653063
+                        ],
+                        [
+                            1794959.9844408,
+                            629051.108427644
+                        ],
+                        [
+                            1794987.98471288,
+                            629099.508593306
+                        ],
+                        [
+                            1795028.68443464,
+                            629076.008640304
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "20",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 397,
+                "STANPAR": "15005023300",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259491,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "REGAL INVESTMENT GROUP, LLC",
+                "OwnDate": 1552024800000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20190318 0024220",
+                "OwnAddr1": "433 SAFFORD VIEW DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "433 SAFFORD VIEW DR",
+                "PropHouse": "433",
+                "PropFraction": null,
+                "PropStreet": "SAFFORD VIEW  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 242 CHERRY HILLS SEC. 5",
+                "PropInstr": "DB-00004613 0000247",
+                "PropDate": 77950800000,
+                "Acres": 0.28,
+                "Front": 82,
+                "Side": 111,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 151600,
+                "TotlAppr": 196600,
+                "LandAssd": 11250,
+                "ImprAssd": 37900,
+                "TotlAssd": 49150,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 11576.057739257812,
+                "Lat": 36.07687767700003,
+                "Lon": -86.62110940699995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1784983.93090214,
+                            635290.711762056
+                        ],
+                        [
+                            1785016.58011505,
+                            635263.389310151
+                        ],
+                        [
+                            1785019.60110639,
+                            635260.397518232
+                        ],
+                        [
+                            1785022.0810883,
+                            635256.943784982
+                        ],
+                        [
+                            1785023.95083521,
+                            635253.124894977
+                        ],
+                        [
+                            1785025.1578538,
+                            635249.047803387
+                        ],
+                        [
+                            1785025.66802339,
+                            635244.826683223
+                        ],
+                        [
+                            1785025.46723638,
+                            635240.579316393
+                        ],
+                        [
+                            1785024.5613983,
+                            635236.425125226
+                        ],
+                        [
+                            1785022.97577155,
+                            635232.479923144
+                        ],
+                        [
+                            1785020.75431931,
+                            635228.854274228
+                        ],
+                        [
+                            1785001.88099746,
+                            635209.257856727
+                        ],
+                        [
+                            1784983.73962955,
+                            635188.98197864
+                        ],
+                        [
+                            1784966.35416564,
+                            635168.05419898
+                        ],
+                        [
+                            1784879.15420881,
+                            635235.254195809
+                        ],
+                        [
+                            1784952.89881197,
+                            635316.680542141
+                        ],
+                        [
+                            1784983.93090214,
+                            635290.711762056
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "21",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 398,
+                "STANPAR": "15005023900",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259497,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "CERVANTES, HUGO ENRIQUE AVILA",
+                "OwnDate": 1530162000000,
+                "SalePrice": 207000,
+                "OwnInstr": "DB-20180709 0065863",
+                "OwnAddr1": "416 SAFFORD VIEW DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "416 SAFFORD VIEW DR",
+                "PropHouse": "416",
+                "PropFraction": null,
+                "PropStreet": "SAFFORD VIEW  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 269 CHERRY HILLS SEC. 5",
+                "PropInstr": "DB-00004667 0000646",
+                "PropDate": 93506400000,
+                "Acres": 0.34,
+                "Front": 80,
+                "Side": 196,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 163600,
+                "TotlAppr": 208600,
+                "LandAssd": 11250,
+                "ImprAssd": 40900,
+                "TotlAssd": 52150,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 13499.818359375,
+                "Lat": 36.07585463000004,
+                "Lon": -86.62088009099995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785101.96839572,
+                            634833.555524141
+                        ],
+                        [
+                            1784932.3686693,
+                            634830.355399311
+                        ],
+                        [
+                            1784930.76860689,
+                            634907.955309734
+                        ],
+                        [
+                            1785125.16848056,
+                            634900.755520985
+                        ],
+                        [
+                            1785129.16847256,
+                            634886.355287313
+                        ],
+                        [
+                            1785101.96839572,
+                            634833.555524141
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "22",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 399,
+                "STANPAR": "15005024300",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259501,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "SWEETING, VERNAL ET UX",
+                "OwnDate": 674024400000,
+                "SalePrice": 81000,
+                "OwnInstr": "DB-00008433 0000943",
+                "OwnAddr1": "2908 BRANTLEY DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2908 BRANTLEY DR",
+                "PropHouse": "2908",
+                "PropFraction": "",
+                "PropStreet": " BRANTLEY  DR",
+                "PropSuite": "",
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 265 CHERRY HILLS SEC. 5",
+                "PropInstr": "DB-00004681 0000494",
+                "PropDate": 98431200000,
+                "Acres": 0.29,
+                "Front": 83,
+                "Side": 110,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 201900,
+                "TotlAppr": 246900,
+                "LandAssd": 11250,
+                "ImprAssd": 50475,
+                "TotlAssd": 61725,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12884.707275390625,
+                "Lat": 36.074881352000034,
+                "Lon": -86.62110761799994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785025.96854772,
+                            634555.955357566
+                        ],
+                        [
+                            1784977.16844846,
+                            634435.955269471
+                        ],
+                        [
+                            1784958.11894588,
+                            634445.216405809
+                        ],
+                        [
+                            1784939.24365555,
+                            634454.828263223
+                        ],
+                        [
+                            1784919.16856447,
+                            634465.555275887
+                        ],
+                        [
+                            1784894.76867889,
+                            634479.155314311
+                        ],
+                        [
+                            1784891.50589013,
+                            634481.643170223
+                        ],
+                        [
+                            1784888.69618447,
+                            634484.63397789
+                        ],
+                        [
+                            1784886.41698955,
+                            634488.045716479
+                        ],
+                        [
+                            1784884.72965696,
+                            634491.786194563
+                        ],
+                        [
+                            1784883.68077455,
+                            634495.753050148
+                        ],
+                        [
+                            1784883.29822938,
+                            634499.838671893
+                        ],
+                        [
+                            1784883.59284823,
+                            634503.931183398
+                        ],
+                        [
+                            1784884.55642897,
+                            634507.919692472
+                        ],
+                        [
+                            1784886.16305305,
+                            634511.695275471
+                        ],
+                        [
+                            1784888.36842921,
+                            634515.155570388
+                        ],
+                        [
+                            1784898.15515505,
+                            634528.428181648
+                        ],
+                        [
+                            1784906.85953397,
+                            634542.434715316
+                        ],
+                        [
+                            1784914.42710413,
+                            634557.086588889
+                        ],
+                        [
+                            1784920.80996539,
+                            634572.291939065
+                        ],
+                        [
+                            1784925.96841964,
+                            634587.955293566
+                        ],
+                        [
+                            1785025.96854772,
+                            634555.955357566
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "23",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 542,
+                "STANPAR": "15005025400",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259964,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "RUCKER, HUBERT",
+                "OwnDate": 1730178000000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20241105 0085788",
+                "OwnAddr1": "2912 BRANTLEY DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2912 BRANTLEY DR",
+                "PropHouse": "2912",
+                "PropFraction": null,
+                "PropStreet": "BRANTLEY  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 264 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004751 0000430",
+                "PropDate": 118040400000,
+                "Acres": 0.32,
+                "Front": 90,
+                "Side": 175,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 162800,
+                "TotlAppr": 207800,
+                "LandAssd": 11250,
+                "ImprAssd": 40700,
+                "TotlAssd": 51950,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 13812.869384765625,
+                "Lat": 36.07482062300005,
+                "Lon": -86.62078292599995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785115.56843413,
+                            634579.955309555
+                        ],
+                        [
+                            1785068.36839731,
+                            634405.555395901
+                        ],
+                        [
+                            1785045.16535972,
+                            634411.89527823
+                        ],
+                        [
+                            1785022.21068121,
+                            634419.081943646
+                        ],
+                        [
+                            1784999.53487356,
+                            634427.105549648
+                        ],
+                        [
+                            1784977.16844846,
+                            634435.955269471
+                        ],
+                        [
+                            1785025.96854772,
+                            634555.955357566
+                        ],
+                        [
+                            1785109.96837972,
+                            634583.955301568
+                        ],
+                        [
+                            1785115.56843413,
+                            634579.955309555
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "24",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 546,
+                "STANPAR": "15005026500",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259975,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "MINA, SHAWKY & SORIAL, NADIA",
+                "OwnDate": 1021438800000,
+                "SalePrice": 112000,
+                "OwnInstr": "DB-20020517 0060842",
+                "OwnAddr1": "2920 BRANTLEY DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2920 BRANTLEY DR",
+                "PropHouse": "2920",
+                "PropFraction": null,
+                "PropStreet": "BRANTLEY  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 262 CHERRY HILLS SEC. 7",
+                "PropInstr": "DB-00004834 0000520",
+                "PropDate": 142491600000,
+                "Acres": 0.36,
+                "Front": 87,
+                "Side": 181,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 175300,
+                "TotlAppr": 220300,
+                "LandAssd": 11250,
+                "ImprAssd": 43825,
+                "TotlAssd": 55075,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 15574.131958007812,
+                "Lat": 36.07472764800008,
+                "Lon": -86.62022589399999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785240.36838138,
+                            634368.755272642
+                        ],
+                        [
+                            1785188.36848539,
+                            634377.5554519
+                        ],
+                        [
+                            1785167.48696548,
+                            634381.569223389
+                        ],
+                        [
+                            1785146.76850297,
+                            634386.355303064
+                        ],
+                        [
+                            1785180.36850138,
+                            634528.755280733
+                        ],
+                        [
+                            1785279.56843422,
+                            634549.55543597
+                        ],
+                        [
+                            1785240.36838138,
+                            634368.755272642
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "25",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 550,
+                "STANPAR": "15005027100",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259981,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "DAVENPORT, EARL F. ET UX",
+                "OwnDate": 517035600000,
+                "SalePrice": 80500,
+                "OwnInstr": "DB-00006865 0000034",
+                "OwnAddr1": "2949 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2949 MOSSDALE DR",
+                "PropHouse": "2949",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 350 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000375",
+                "PropDate": 111646800000,
+                "Acres": 0.29,
+                "Front": 87,
+                "Side": 117,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 190500,
+                "TotlAppr": 235500,
+                "LandAssd": 11250,
+                "ImprAssd": 47625,
+                "TotlAssd": 58875,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12079.05419921875,
+                "Lat": 36.075407408000046,
+                "Lon": -86.61951320899999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785499.9108413,
+                            634673.728087887
+                        ],
+                        [
+                            1785389.16860873,
+                            634639.95551765
+                        ],
+                        [
+                            1785347.5686263,
+                            634719.955357641
+                        ],
+                        [
+                            1785436.36864555,
+                            634766.355527312
+                        ],
+                        [
+                            1785439.85453098,
+                            634767.895222396
+                        ],
+                        [
+                            1785443.54842122,
+                            634768.833212644
+                        ],
+                        [
+                            1785447.34664197,
+                            634769.143907562
+                        ],
+                        [
+                            1785451.14387847,
+                            634768.817792729
+                        ],
+                        [
+                            1785454.83383173,
+                            634767.865038723
+                        ],
+                        [
+                            1785458.31348355,
+                            634766.311236054
+                        ],
+                        [
+                            1785461.48637748,
+                            634764.2003479
+                        ],
+                        [
+                            1785464.26360288,
+                            634761.590773061
+                        ],
+                        [
+                            1785466.5683883,
+                            634758.555346057
+                        ],
+                        [
+                            1785476.88562489,
+                            634735.36280714
+                        ],
+                        [
+                            1785486.4088998,
+                            634711.832998559
+                        ],
+                        [
+                            1785493.41774406,
+                            634692.871750399
+                        ],
+                        [
+                            1785499.9108413,
+                            634673.728087887
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "26",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 554,
+                "STANPAR": "15005027200",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259982,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "DUFF, ROBERT L",
+                "OwnDate": 1611554400000,
+                "SalePrice": 310000,
+                "OwnInstr": "DB-20212700 0012067",
+                "OwnAddr1": "2905 ROGERS CT",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2905 ROGERS CT",
+                "PropHouse": "2905",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 351 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000375",
+                "PropDate": 111646800000,
+                "Acres": 0.25,
+                "Front": 104,
+                "Side": 115,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 159300,
+                "TotlAppr": 204300,
+                "LandAssd": 11250,
+                "ImprAssd": 39825,
+                "TotlAssd": 51075,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 11188.545654296875,
+                "Lat": 36.07522718300004,
+                "Lon": -86.61982518399998
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785389.16860873,
+                            634639.95551765
+                        ],
+                        [
+                            1785352.36848547,
+                            634563.955341563
+                        ],
+                        [
+                            1785321.16841663,
+                            634557.555419981
+                        ],
+                        [
+                            1785273.16851264,
+                            634652.755360812
+                        ],
+                        [
+                            1785278.69638872,
+                            634656.998462558
+                        ],
+                        [
+                            1785283.61927913,
+                            634661.93053931
+                        ],
+                        [
+                            1785287.8522103,
+                            634667.465961307
+                        ],
+                        [
+                            1785291.32201964,
+                            634673.509256303
+                        ],
+                        [
+                            1785293.96866788,
+                            634679.955437645
+                        ],
+                        [
+                            1785295.86334914,
+                            634685.378655151
+                        ],
+                        [
+                            1785298.66714931,
+                            634690.392424643
+                        ],
+                        [
+                            1785302.29575098,
+                            634694.845827818
+                        ],
+                        [
+                            1785306.63990238,
+                            634698.604678556
+                        ],
+                        [
+                            1785311.5686983,
+                            634701.555460066
+                        ],
+                        [
+                            1785347.5686263,
+                            634719.955357641
+                        ],
+                        [
+                            1785389.16860873,
+                            634639.95551765
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "27",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 719,
+                "STANPAR": "150160A07200CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259688,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "VESTAL, STEPHANIE D.",
+                "OwnDate": 1182920400000,
+                "SalePrice": 195000,
+                "OwnInstr": "DB-20070706 0080418",
+                "OwnAddr1": "2845 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2845 WINDCREST TRL",
+                "PropHouse": "2845",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 55 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.15,
+                "Front": 33,
+                "Side": 122,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 214300,
+                "TotlAppr": 268300,
+                "LandAssd": 13500,
+                "ImprAssd": 53575,
+                "TotlAssd": 67075,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 6632.6357421875,
+                "Lat": 36.05971076700007,
+                "Lon": -86.58628636699996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795290.28463322,
+                            628924.408549815
+                        ],
+                        [
+                            1795175.68446872,
+                            628883.008698225
+                        ],
+                        [
+                            1795172.98893605,
+                            628889.008358151
+                        ],
+                        [
+                            1795169.38100363,
+                            628894.507362887
+                        ],
+                        [
+                            1795164.95056631,
+                            628899.368573651
+                        ],
+                        [
+                            1795159.8088443,
+                            628903.469943389
+                        ],
+                        [
+                            1795154.08444631,
+                            628906.708453983
+                        ],
+                        [
+                            1795188.98463897,
+                            628983.108563647
+                        ],
+                        [
+                            1795290.28463322,
+                            628924.408549815
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "28",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 722,
+                "STANPAR": "150160A07300CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259689,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "NELSON, LARRY & DOROTHY",
+                "OwnDate": 1139551200000,
+                "SalePrice": 186000,
+                "OwnInstr": "DB-20060213 0017064",
+                "OwnAddr1": "2844 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2844 WINDCREST TRL",
+                "PropHouse": "2844",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 56 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.23,
+                "Front": 34,
+                "Side": 122,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 191700,
+                "TotlAppr": 245700,
+                "LandAssd": 13500,
+                "ImprAssd": 47925,
+                "TotlAssd": 61425,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 10036.062133789062,
+                "Lat": 36.059530677000055,
+                "Lon": -86.58615744399998
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795309.48472606,
+                            628837.108527556
+                        ],
+                        [
+                            1795263.88442355,
+                            628805.108591557
+                        ],
+                        [
+                            1795173.58473539,
+                            628850.408697814
+                        ],
+                        [
+                            1795176.12016338,
+                            628856.618659139
+                        ],
+                        [
+                            1795177.62311314,
+                            628863.155719563
+                        ],
+                        [
+                            1795178.05421464,
+                            628869.849275723
+                        ],
+                        [
+                            1795177.40231305,
+                            628876.525115401
+                        ],
+                        [
+                            1795175.68446872,
+                            628883.008698225
+                        ],
+                        [
+                            1795290.28463322,
+                            628924.408549815
+                        ],
+                        [
+                            1795309.48472606,
+                            628837.108527556
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "29",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 726,
+                "STANPAR": "150160A07400CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259690,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "CARTER REALTY INVESTMENTS",
+                "OwnDate": 1572411600000,
+                "SalePrice": 224000,
+                "OwnInstr": "DB-20191031 0112127",
+                "OwnAddr1": "P. O. BOX 1633",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "MOUNT JULIET",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37121",
+                "PropAddr": "2840 WINDCREST TRL",
+                "PropHouse": "2840",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 57 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.14,
+                "Front": 32,
+                "Side": 101,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 203300,
+                "TotlAppr": 257300,
+                "LandAssd": 13500,
+                "ImprAssd": 50825,
+                "TotlAssd": 64325,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5935.1219482421875,
+                "Lat": 36.05935888400006,
+                "Lon": -86.58632870299994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795263.88442355,
+                            628805.108591557
+                        ],
+                        [
+                            1795177.58472739,
+                            628744.508647144
+                        ],
+                        [
+                            1795149.68386455,
+                            628829.708607972
+                        ],
+                        [
+                            1795155.63201539,
+                            628832.268970311
+                        ],
+                        [
+                            1795161.11789681,
+                            628835.709252149
+                        ],
+                        [
+                            1795166.01290014,
+                            628839.948744982
+                        ],
+                        [
+                            1795170.20154005,
+                            628844.887383401
+                        ],
+                        [
+                            1795173.58473539,
+                            628850.408697814
+                        ],
+                        [
+                            1795263.88442355,
+                            628805.108591557
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "30",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 729,
+                "STANPAR": "150160A07900CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259695,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "MORTON, SHEROLYN",
+                "OwnDate": 1474952400000,
+                "SalePrice": 215050,
+                "OwnInstr": "DB-20160930 0103557",
+                "OwnAddr1": "3605 SHOREWIND BAY",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "3605 SHOREWIND BAY",
+                "PropHouse": "3605",
+                "PropFraction": null,
+                "PropStreet": "SHOREWIND BAY",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 62 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.14,
+                "Front": 53,
+                "Side": 110,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 224600,
+                "TotlAppr": 278600,
+                "LandAssd": 13500,
+                "ImprAssd": 56150,
+                "TotlAssd": 69650,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5902.865234375,
+                "Lat": 36.059294212000054,
+                "Lon": -86.58713255699996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795018.0847183,
+                            628742.908584729
+                        ],
+                        [
+                            1794909.28473905,
+                            628758.908552721
+                        ],
+                        [
+                            1794909.7443838,
+                            628766.565361559
+                        ],
+                        [
+                            1794908.90153772,
+                            628774.189362064
+                        ],
+                        [
+                            1794906.78047897,
+                            628781.5607384
+                        ],
+                        [
+                            1794903.44288722,
+                            628788.466892555
+                        ],
+                        [
+                            1794898.9845628,
+                            628794.708677977
+                        ],
+                        [
+                            1794894.78804889,
+                            628800.537734553
+                        ],
+                        [
+                            1794891.28444697,
+                            628806.807735145
+                        ],
+                        [
+                            1794985.68452063,
+                            628808.108585566
+                        ],
+                        [
+                            1795001.28455505,
+                            628808.308388308
+                        ],
+                        [
+                            1795018.0847183,
+                            628742.908584729
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "31",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 733,
+                "STANPAR": "150160A08000CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259696,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "MOUSSA, EID & WAFAA GERGES",
+                "OwnDate": 1562821200000,
+                "SalePrice": 275000,
+                "OwnInstr": "DB-20190718 0070404",
+                "OwnAddr1": "3609 SHOREWIND BAY",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "3609 SHOREWIND BAY",
+                "PropHouse": "3609",
+                "PropFraction": null,
+                "PropStreet": "SHOREWIND BAY",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 63 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.22,
+                "Front": 33,
+                "Side": 151,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 229300,
+                "TotlAppr": 283300,
+                "LandAssd": 13500,
+                "ImprAssd": 57325,
+                "TotlAssd": 70825,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 9515.5556640625,
+                "Lat": 36.05908687800007,
+                "Lon": -86.58712072899993
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795018.0847183,
+                            628742.908584729
+                        ],
+                        [
+                            1794988.48471189,
+                            628613.308450222
+                        ],
+                        [
+                            1794893.18470563,
+                            628730.608412474
+                        ],
+                        [
+                            1794898.03049646,
+                            628735.175004393
+                        ],
+                        [
+                            1794902.14531764,
+                            628740.410230145
+                        ],
+                        [
+                            1794905.43763389,
+                            628746.197620139
+                        ],
+                        [
+                            1794907.83526689,
+                            628752.409549981
+                        ],
+                        [
+                            1794909.28473905,
+                            628758.908552721
+                        ],
+                        [
+                            1795018.0847183,
+                            628742.908584729
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "32",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 754,
+                "STANPAR": "05202028200",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 451726,
+                "Tract": "37010701",
+                "Council": "09",
+                "TaxDist": "USD ",
+                "Owner": "GROUNDLY HOME OWNER LLC",
+                "OwnDate": 1694667600000,
+                "SalePrice": 745000,
+                "OwnInstr": "DB-20230919 0073684",
+                "OwnAddr1": "1114 AVENUE OF THE AMERICAS 39TH FL",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "NEW YORK",
+                "OwnState": "NY",
+                "OwnCountry": "US        ",
+                "OwnZip": "10036",
+                "PropAddr": "420 LANIER DR",
+                "PropHouse": "420",
+                "PropFraction": "",
+                "PropStreet": " LANIER  DR",
+                "PropSuite": "",
+                "PropCity": "MADISON",
+                "PropState": "TN",
+                "PropZip": "37115",
+                "LegalDesc": "LOT 19 BLK E RAINBOW TERRACE",
+                "PropInstr": "QC-20200327 0033447",
+                "PropDate": 1581314400000,
+                "Acres": 0.23,
+                "Front": 50,
+                "Side": 200,
+                "IsRegular": "Y",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 50000,
+                "ImprAppr": 317400,
+                "TotlAppr": 367400,
+                "LandAssd": 12500,
+                "ImprAssd": 79350,
+                "TotlAssd": 91850,
+                "AssessDate": 1682917200000,
+                "Zoning": "RS10",
+                "Shape__Area": 9669.024658203125,
+                "Lat": 36.257779871000025,
+                "Lon": -86.69952453499997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1762332.02771522,
+                            701181.2938914
+                        ],
+                        [
+                            1762292.30929072,
+                            701154.586595729
+                        ],
+                        [
+                            1762181.98831713,
+                            701318.219470561
+                        ],
+                        [
+                            1762180.09330781,
+                            701321.030160472
+                        ],
+                        [
+                            1762219.85438314,
+                            701348.503530726
+                        ],
+                        [
+                            1762221.83469413,
+                            701345.551436901
+                        ],
+                        [
+                            1762332.02771522,
+                            701181.2938914
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "33",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 872,
+                "STANPAR": "150160A07100CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259687,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "FAHIM, RAFAT",
+                "OwnDate": 1324965600000,
+                "SalePrice": 137000,
+                "OwnInstr": "DB-20120214 0013060",
+                "OwnAddr1": "129 MASSMAN MANOR DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "NASHVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37217",
+                "PropAddr": "2841 WINDCREST TRL",
+                "PropHouse": "2841",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 54 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.12,
+                "Front": 62,
+                "Side": 94,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 193400,
+                "TotlAppr": 247400,
+                "LandAssd": 13500,
+                "ImprAssd": 48350,
+                "TotlAssd": 61850,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5189.29150390625,
+                "Lat": 36.059780345000036,
+                "Lon": -86.58651073799996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795188.98463897,
+                            628983.108563647
+                        ],
+                        [
+                            1795154.08444631,
+                            628906.708453983
+                        ],
+                        [
+                            1795148.90204197,
+                            628908.702544481
+                        ],
+                        [
+                            1795143.50507113,
+                            628910.009956554
+                        ],
+                        [
+                            1795137.98474097,
+                            628910.608380556
+                        ],
+                        [
+                            1795131.32924247,
+                            628911.340006396
+                        ],
+                        [
+                            1795124.82302189,
+                            628912.920383811
+                        ],
+                        [
+                            1795118.57369055,
+                            628915.323266149
+                        ],
+                        [
+                            1795112.68459472,
+                            628918.508627221
+                        ],
+                        [
+                            1795096.68462671,
+                            628927.908542812
+                        ],
+                        [
+                            1795143.18453372,
+                            629009.708576053
+                        ],
+                        [
+                            1795188.98463897,
+                            628983.108563647
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "34",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 876,
+                "STANPAR": "150160A07500CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259691,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "HERNANDEZ, IBRIANY & CEBRERO BALCAZAR, DAILY",
+                "OwnDate": 1361944800000,
+                "SalePrice": 130000,
+                "OwnInstr": "DB-20130318 0026426",
+                "OwnAddr1": "2160 NASHBORO BLVD",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "NASHVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37217",
+                "PropAddr": "2836 WINDCREST TRL",
+                "PropHouse": "2836",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 58 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.15,
+                "Front": 33,
+                "Side": 110,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 191900,
+                "TotlAppr": 245900,
+                "LandAssd": 13500,
+                "ImprAssd": 47975,
+                "TotlAssd": 61475,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 6404.9576416015625,
+                "Lat": 36.059288896000055,
+                "Lon": -86.58656723599995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795149.68386455,
+                            628829.708607972
+                        ],
+                        [
+                            1795177.58472739,
+                            628744.508647144
+                        ],
+                        [
+                            1795067.38448846,
+                            628734.308536306
+                        ],
+                        [
+                            1795117.5845193,
+                            628832.20860298
+                        ],
+                        [
+                            1795123.6888378,
+                            628829.70335865
+                        ],
+                        [
+                            1795130.10844439,
+                            628828.176130727
+                        ],
+                        [
+                            1795136.68684331,
+                            628827.663664564
+                        ],
+                        [
+                            1795143.26524222,
+                            628828.178755388
+                        ],
+                        [
+                            1795149.68386455,
+                            628829.708607972
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "35",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 880,
+                "STANPAR": "150160A07600CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259692,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "WHITLOW, HAROLD D.",
+                "OwnDate": 1081832400000,
+                "SalePrice": 139950,
+                "OwnInstr": "DB-20040421 0045340",
+                "OwnAddr1": "2832 WINDCREST TL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2832 WINDCREST TRL",
+                "PropHouse": "2832",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 59 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 53,
+                "Side": 111,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 175200,
+                "TotlAppr": 229200,
+                "LandAssd": 13500,
+                "ImprAssd": 43800,
+                "TotlAssd": 57300,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5788.7427978515625,
+                "Lat": 36.059360835000064,
+                "Lon": -86.58674975099996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1795117.5845193,
+                            628832.20860298
+                        ],
+                        [
+                            1795067.38448846,
+                            628734.308536306
+                        ],
+                        [
+                            1795025.78450605,
+                            628780.808443308
+                        ],
+                        [
+                            1795086.78471214,
+                            628873.509373397
+                        ],
+                        [
+                            1795091.09769563,
+                            628868.117323816
+                        ],
+                        [
+                            1795094.62032638,
+                            628862.178687394
+                        ],
+                        [
+                            1795097.28469114,
+                            628855.808621392
+                        ],
+                        [
+                            1795099.81979105,
+                            628849.965457231
+                        ],
+                        [
+                            1795103.20200214,
+                            628844.568486392
+                        ],
+                        [
+                            1795107.35553713,
+                            628839.739755899
+                        ],
+                        [
+                            1795112.18623614,
+                            628835.588517472
+                        ],
+                        [
+                            1795117.5845193,
+                            628832.20860298
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "36",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 888,
+                "STANPAR": "150160A09200CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259708,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "BEARD, RICKY",
+                "OwnDate": 1324015200000,
+                "SalePrice": 125500,
+                "OwnInstr": "DB-20111221 0099627",
+                "OwnAddr1": "2788 WINDCREST TRL",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2788 WINDCREST TRL",
+                "PropHouse": "2788",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 103 WINDHAVEN SHORES SEC 2",
+                "PropInstr": "PL-20031210 0176853",
+                "PropDate": 1070604000000,
+                "Acres": 0.13,
+                "Front": 50,
+                "Side": 105,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 179700,
+                "TotlAppr": 233700,
+                "LandAssd": 13500,
+                "ImprAssd": 44925,
+                "TotlAssd": 58425,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5786.109619140625,
+                "Lat": 36.060078943000065,
+                "Lon": -86.58936396199994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1794303.98444048,
+                            629020.008424222
+                        ],
+                        [
+                            1794268.28470872,
+                            629007.20858106
+                        ],
+                        [
+                            1794267.28471072,
+                            629007.408383816
+                        ],
+                        [
+                            1794257.48453347,
+                            629039.20851706
+                        ],
+                        [
+                            1794307.08449988,
+                            629131.808397472
+                        ],
+                        [
+                            1794351.1844773,
+                            629108.20837906
+                        ],
+                        [
+                            1794303.98444048,
+                            629020.008424222
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "37",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 939,
+                "STANPAR": "15005024700",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259959,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "PARADISE, TONY L. ET UX",
+                "OwnDate": 509263200000,
+                "SalePrice": 69900,
+                "OwnInstr": "DB-00006789 0000209",
+                "OwnAddr1": "2940 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2940 MOSSDALE DR",
+                "PropHouse": "2940",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 278 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004836 0000564",
+                "PropDate": 143355600000,
+                "Acres": 0.29,
+                "Front": 80,
+                "Side": 167,
+                "IsRegular": "Y",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 176800,
+                "TotlAppr": 221800,
+                "LandAssd": 11250,
+                "ImprAssd": 44200,
+                "TotlAssd": 55450,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12993.8037109375,
+                "Lat": 36.07693255100003,
+                "Lon": -86.62020510099995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785308.61922914,
+                            635295.374482393
+                        ],
+                        [
+                            1785201.96917997,
+                            635173.444280058
+                        ],
+                        [
+                            1785140.60316098,
+                            635224.798179984
+                        ],
+                        [
+                            1785247.82112239,
+                            635347.37798731
+                        ],
+                        [
+                            1785268.9742953,
+                            635329.284847647
+                        ],
+                        [
+                            1785308.61922914,
+                            635295.374482393
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "38",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 944,
+                "STANPAR": "15005025500",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259965,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "WEINER, MATTHEW DANIEL & MOLLER, STEVEN",
+                "OwnDate": 1680238800000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20230404 0024252",
+                "OwnAddr1": "4020 HICKORY TERRACE",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "NASHVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37207",
+                "PropAddr": "2916 BRANTLEY DR",
+                "PropHouse": "2916",
+                "PropFraction": null,
+                "PropStreet": "BRANTLEY  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 263 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004756 0000737",
+                "PropDate": 119250000000,
+                "Acres": 0.3,
+                "Front": 85,
+                "Side": 175,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 184900,
+                "TotlAppr": 229900,
+                "LandAssd": 11250,
+                "ImprAssd": 46225,
+                "TotlAssd": 57475,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12886.95361328125,
+                "Lat": 36.07477413100003,
+                "Lon": -86.62052092699997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785173.16838455,
+                            634536.755264729
+                        ],
+                        [
+                            1785181.16869664,
+                            634531.155538395
+                        ],
+                        [
+                            1785180.36850138,
+                            634528.755280733
+                        ],
+                        [
+                            1785146.76850297,
+                            634386.355303064
+                        ],
+                        [
+                            1785120.47557655,
+                            634392.092168227
+                        ],
+                        [
+                            1785094.33652122,
+                            634398.493730232
+                        ],
+                        [
+                            1785068.36839731,
+                            634405.555395901
+                        ],
+                        [
+                            1785115.56843413,
+                            634579.955309555
+                        ],
+                        [
+                            1785173.16838455,
+                            634536.755264729
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "39",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 955,
+                "STANPAR": "15005026600",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259976,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "GARRETT, WILLIAM JR.",
+                "OwnDate": 1484719200000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20170123 0007234",
+                "OwnAddr1": "2924 BRANTLEY DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2924 BRANTLEY DR",
+                "PropHouse": "2924",
+                "PropFraction": null,
+                "PropStreet": "BRANTLEY  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 261 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000688",
+                "PropDate": 111646800000,
+                "Acres": 0.36,
+                "Front": 84,
+                "Side": 181,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 174700,
+                "TotlAppr": 219700,
+                "LandAssd": 11250,
+                "ImprAssd": 43675,
+                "TotlAssd": 54925,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 16228.198120117188,
+                "Lat": 36.07471476500007,
+                "Lon": -86.61992607199994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785359.56860231,
+                            634514.355375141
+                        ],
+                        [
+                            1785327.56866631,
+                            634353.555499896
+                        ],
+                        [
+                            1785240.36838138,
+                            634368.755272642
+                        ],
+                        [
+                            1785279.56843422,
+                            634549.55543597
+                        ],
+                        [
+                            1785321.16841663,
+                            634557.555419981
+                        ],
+                        [
+                            1785359.56860231,
+                            634514.355375141
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "40",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 959,
+                "STANPAR": "15005027300",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259983,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "BREWER, NATHAN & LAURA",
+                "OwnDate": 1541570400000,
+                "SalePrice": 209900,
+                "OwnInstr": "DB-20181113 0111683",
+                "OwnAddr1": "2909 ROGERS CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2909 ROGERS CT",
+                "PropHouse": "2909",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 352 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000375",
+                "PropDate": 111646800000,
+                "Acres": 0.25,
+                "Front": 43,
+                "Side": 131,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 148900,
+                "TotlAppr": 193900,
+                "LandAssd": 11250,
+                "ImprAssd": 37225,
+                "TotlAssd": 48475,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 10400.165649414062,
+                "Lat": 36.075080154000034,
+                "Lon": -86.62011596199994
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785321.16841663,
+                            634557.555419981
+                        ],
+                        [
+                            1785279.56843422,
+                            634549.55543597
+                        ],
+                        [
+                            1785180.36850138,
+                            634528.755280733
+                        ],
+                        [
+                            1785181.16869664,
+                            634531.155538395
+                        ],
+                        [
+                            1785173.16838455,
+                            634536.755264729
+                        ],
+                        [
+                            1785227.56853822,
+                            634647.955501646
+                        ],
+                        [
+                            1785235.16202697,
+                            634645.6592464
+                        ],
+                        [
+                            1785243.02323171,
+                            634644.597568721
+                        ],
+                        [
+                            1785250.95366205,
+                            634644.797043398
+                        ],
+                        [
+                            1785258.75154673,
+                            634646.253077224
+                        ],
+                        [
+                            1785266.21970764,
+                            634648.92859681
+                        ],
+                        [
+                            1785273.16851264,
+                            634652.755360812
+                        ],
+                        [
+                            1785321.16841663,
+                            634557.555419981
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "41",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 963,
+                "STANPAR": "15005027400",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259984,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "ANDRADES, ROSA M.",
+                "OwnDate": 1353477600000,
+                "SalePrice": 147000,
+                "OwnInstr": "DB-20121128 0109082",
+                "OwnAddr1": "2913 ROGERS CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2913 ROGERS CT",
+                "PropHouse": "2913",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 353 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004845 0000259",
+                "PropDate": 146120400000,
+                "Acres": 0.27,
+                "Front": 43,
+                "Side": 131,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 169900,
+                "TotlAppr": 214900,
+                "LandAssd": 11250,
+                "ImprAssd": 42475,
+                "TotlAssd": 53725,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 11485.950317382812,
+                "Lat": 36.07516256200006,
+                "Lon": -86.62041839299997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785227.56853822,
+                            634647.955501646
+                        ],
+                        [
+                            1785173.16838455,
+                            634536.755264729
+                        ],
+                        [
+                            1785115.56843413,
+                            634579.955309555
+                        ],
+                        [
+                            1785109.96837972,
+                            634583.955301568
+                        ],
+                        [
+                            1785079.56850614,
+                            634641.555580065
+                        ],
+                        [
+                            1785198.76839897,
+                            634679.955437645
+                        ],
+                        [
+                            1785201.5787608,
+                            634673.137209818
+                        ],
+                        [
+                            1785205.29233605,
+                            634666.765503392
+                        ],
+                        [
+                            1785209.83989914,
+                            634660.959740728
+                        ],
+                        [
+                            1785215.13614839,
+                            634655.827861235
+                        ],
+                        [
+                            1785221.08298689,
+                            634651.465993315
+                        ],
+                        [
+                            1785227.56853822,
+                            634647.955501646
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "42",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 967,
+                "STANPAR": "15005027500",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259985,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "DURRETT, NICOLE M.",
+                "OwnDate": 1365397200000,
+                "SalePrice": 118500,
+                "OwnInstr": "DB-20130409 0035089",
+                "OwnAddr1": "2910 ROGERS CT",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2910 ROGERS CT",
+                "PropHouse": "2910",
+                "PropFraction": null,
+                "PropStreet": "ROGERS  CT",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 354 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004735 0000688",
+                "PropDate": 111646800000,
+                "Acres": 0.28,
+                "Front": 39,
+                "Side": 132,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 149300,
+                "TotlAppr": 194300,
+                "LandAssd": 11250,
+                "ImprAssd": 37325,
+                "TotlAssd": 48575,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12280.734375,
+                "Lat": 36.075413282000056,
+                "Lon": -86.62054084299996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785201.9685238,
+                            634720.755552888
+                        ],
+                        [
+                            1785198.8169553,
+                            634712.989164233
+                        ],
+                        [
+                            1785196.89077805,
+                            634704.832028314
+                        ],
+                        [
+                            1785196.23526755,
+                            634696.476073891
+                        ],
+                        [
+                            1785196.86617181,
+                            634688.118479058
+                        ],
+                        [
+                            1785198.76839897,
+                            634679.955437645
+                        ],
+                        [
+                            1785079.56850614,
+                            634641.555580065
+                        ],
+                        [
+                            1785065.16860056,
+                            634667.955461651
+                        ],
+                        [
+                            1785070.76865497,
+                            634755.955285639
+                        ],
+                        [
+                            1785071.56852214,
+                            634775.955573723
+                        ],
+                        [
+                            1785075.56851414,
+                            634783.955557734
+                        ],
+                        [
+                            1785201.9685238,
+                            634720.755552888
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "43",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1066,
+                "STANPAR": "15005024800",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259960,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "DE LOS SANTOS, VICTORIA QUINTANILLA",
+                "OwnDate": 1629867600000,
+                "SalePrice": null,
+                "OwnInstr": "DV-20220310 0027367",
+                "OwnAddr1": "2936 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2936 MOSSDALE DR",
+                "PropHouse": "2936",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 277 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004743 0000747",
+                "PropDate": 115534800000,
+                "Acres": 0.29,
+                "Front": 80,
+                "Side": 167,
+                "IsRegular": "Y",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 176100,
+                "TotlAppr": 221100,
+                "LandAssd": 11250,
+                "ImprAssd": 44025,
+                "TotlAssd": 55275,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 12924.791015625,
+                "Lat": 36.07679165300004,
+                "Lon": -86.61999729799999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785369.41733588,
+                            635243.370977476
+                        ],
+                        [
+                            1785263.33487089,
+                            635122.090052053
+                        ],
+                        [
+                            1785201.96917997,
+                            635173.444280058
+                        ],
+                        [
+                            1785308.61922914,
+                            635295.374482393
+                        ],
+                        [
+                            1785329.78388497,
+                            635277.27150023
+                        ],
+                        [
+                            1785369.41733588,
+                            635243.370977476
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "44",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1069,
+                "STANPAR": "15005025100",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259961,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "THORNTON, DARRYL O., SR. & SHIRLEY A.",
+                "OwnDate": 1250485200000,
+                "SalePrice": 70900,
+                "OwnInstr": "DB-20090918 0087166",
+                "OwnAddr1": "2937 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2937 MOSSDALE DR",
+                "PropHouse": "2937",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 275 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004788 0000847",
+                "PropDate": 130053600000,
+                "Acres": 0.29,
+                "Front": 83,
+                "Side": 204,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 202200,
+                "TotlAppr": 247200,
+                "LandAssd": 11250,
+                "ImprAssd": 50550,
+                "TotlAssd": 61800,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 13741.87890625,
+                "Lat": 36.076059550000025,
+                "Lon": -86.62013456999995
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785340.0154918,
+                            634976.91678597
+                        ],
+                        [
+                            1785333.16839264,
+                            634971.155314565
+                        ],
+                        [
+                            1785201.9685238,
+                            634860.755272895
+                        ],
+                        [
+                            1785165.16840056,
+                            634873.555444151
+                        ],
+                        [
+                            1785136.36858939,
+                            634883.95535773
+                        ],
+                        [
+                            1785287.41717181,
+                            635034.161094055
+                        ],
+                        [
+                            1785305.12612589,
+                            635016.285801724
+                        ],
+                        [
+                            1785322.94137897,
+                            634996.92954123
+                        ],
+                        [
+                            1785340.0154918,
+                            634976.91678597
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "45",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1072,
+                "STANPAR": "15005025200",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259962,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "MENAKAYA, UFONDU & VIVIAN",
+                "OwnDate": 1019451600000,
+                "SalePrice": 108000,
+                "OwnInstr": "DB-20020502 0054203",
+                "OwnAddr1": "2933 MOSSDALE DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2933 MOSSDALE DR",
+                "PropHouse": "2933",
+                "PropFraction": null,
+                "PropStreet": "MOSSDALE  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 274 CHERRY HILLS SEC. 6",
+                "PropInstr": "DB-00004743 0000753",
+                "PropDate": 115534800000,
+                "Acres": 0.29,
+                "Front": 80,
+                "Side": 204,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 165900,
+                "TotlAppr": 210900,
+                "LandAssd": 11250,
+                "ImprAssd": 41475,
+                "TotlAssd": 52725,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 14026.321166992188,
+                "Lat": 36.07618564400008,
+                "Lon": -86.62030639599999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785230.40875563,
+                            635084.446098477
+                        ],
+                        [
+                            1785248.39658055,
+                            635069.392978981
+                        ],
+                        [
+                            1785251.74827988,
+                            635066.570149973
+                        ],
+                        [
+                            1785269.8620888,
+                            635050.673200145
+                        ],
+                        [
+                            1785287.41717181,
+                            635034.161094055
+                        ],
+                        [
+                            1785136.36858939,
+                            634883.95535773
+                        ],
+                        [
+                            1785129.16847256,
+                            634886.355287313
+                        ],
+                        [
+                            1785125.16848056,
+                            634900.755520985
+                        ],
+                        [
+                            1785111.56844214,
+                            634951.155354559
+                        ],
+                        [
+                            1785229.98749664,
+                            635084.798788056
+                        ],
+                        [
+                            1785230.40875563,
+                            635084.446098477
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "46",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1094,
+                "STANPAR": "05203019800",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 451751,
+                "Tract": "47037010602",
+                "Council": "9",
+                "TaxDist": "UNASSIGNED",
+                "Owner": "ORTIZ, AMADO",
+                "OwnDate": 1608184800000,
+                "SalePrice": 55000,
+                "OwnInstr": "DB-20201217 0149713",
+                "OwnAddr1": "135 CRAWFORD HILL RD",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "GOODLETTSVILLE",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37072",
+                "PropAddr": "905 WARD RD",
+                "PropHouse": "905",
+                "PropFraction": "",
+                "PropStreet": " WARD  RD",
+                "PropSuite": "",
+                "PropCity": "MADISON",
+                "PropState": "TN",
+                "PropZip": "37115",
+                "LegalDesc": "LOT 1 EAST MADISON ADDITION",
+                "PropInstr": "PL-20240627 0048409",
+                "PropDate": 1719464400000,
+                "Acres": 0.25,
+                "Front": 75,
+                "Side": 141,
+                "IsRegular": "N",
+                "LUCode": null,
+                "LUDesc": null,
+                "LandAppr": null,
+                "ImprAppr": null,
+                "TotlAppr": null,
+                "LandAssd": null,
+                "ImprAssd": null,
+                "TotlAssd": null,
+                "AssessDate": null,
+                "Zoning": "RS10",
+                "Shape__Area": 10513.650024414062,
+                "Lat": 36.255873834000056,
+                "Lon": -86.68922813899997
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1765333.93706572,
+                            700600.608701065
+                        ],
+                        [
+                            1765314.11787964,
+                            700462.400644138
+                        ],
+                        [
+                            1765239.54945922,
+                            700470.841244057
+                        ],
+                        [
+                            1765248.56748581,
+                            700532.939873144
+                        ],
+                        [
+                            1765252.81189989,
+                            700561.464094311
+                        ],
+                        [
+                            1765255.91884905,
+                            700582.694038734
+                        ],
+                        [
+                            1765260.02284347,
+                            700610.737945899
+                        ],
+                        [
+                            1765333.93706572,
+                            700600.608701065
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "47",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1095,
+                "STANPAR": "15005026700",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259977,
+                "Tract": "37015618",
+                "Council": "29",
+                "TaxDist": "USD",
+                "Owner": "DEAS, FRANK A. ET UX",
+                "OwnDate": 385880400000,
+                "SalePrice": 62500,
+                "OwnInstr": "DB-00005919 0000217",
+                "OwnAddr1": "2928 BRANTLEY DR",
+                "OwnAddr2": null,
+                "OwnAddr3": null,
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2928 BRANTLEY DR",
+                "PropHouse": "2928",
+                "PropFraction": null,
+                "PropStreet": "BRANTLEY  DR",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 260 CHERRY HILLS SECTION 7",
+                "PropInstr": "DB-00004818 0000609",
+                "PropDate": 138517200000,
+                "Acres": 0.25,
+                "Front": 86,
+                "Side": 162,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 45000,
+                "ImprAppr": 172300,
+                "TotlAppr": 217300,
+                "LandAssd": 11250,
+                "ImprAssd": 43075,
+                "TotlAssd": 54325,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 11204.728271484375,
+                "Lat": 36.07460644900004,
+                "Lon": -86.61966420299996
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1785429.96773972,
+                            634435.955269471
+                        ],
+                        [
+                            1785413.16856071,
+                            634339.155266225
+                        ],
+                        [
+                            1785327.56866631,
+                            634353.555499896
+                        ],
+                        [
+                            1785359.56860231,
+                            634514.355375141
+                        ],
+                        [
+                            1785373.16864072,
+                            634499.955469564
+                        ],
+                        [
+                            1785429.96773972,
+                            634435.955269471
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "48",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1490,
+                "STANPAR": "150160A04300CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259207,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "AH4R-TN3, LLC",
+                "OwnDate": 1579068000000,
+                "SalePrice": null,
+                "OwnInstr": "QC-20200130 0010890",
+                "OwnAddr1": "23975 PARK SORRENTO #300",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "CALABASAS",
+                "OwnState": "CA",
+                "OwnCountry": "US        ",
+                "OwnZip": "91302",
+                "PropAddr": "2716 WINDCREST TRL",
+                "PropHouse": "2716",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 126 WINDHAVEN SHORES SEC 1",
+                "PropInstr": "PL-20030219 0021779",
+                "PropDate": 1045029600000,
+                "Acres": 0.12,
+                "Front": 54,
+                "Side": 92,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 164000,
+                "TotlAppr": 218000,
+                "LandAssd": 13500,
+                "ImprAssd": 41000,
+                "TotlAssd": 54500,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5104.975830078125,
+                "Lat": 36.06088279900007,
+                "Lon": -86.59352938699999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1793122.81029363,
+                            629386.031970397
+                        ],
+                        [
+                            1793063.51054347,
+                            629315.131849721
+                        ],
+                        [
+                            1793021.21043122,
+                            629355.831899554
+                        ],
+                        [
+                            1793082.71030822,
+                            629421.531899393
+                        ],
+                        [
+                            1793102.50718464,
+                            629403.496174306
+                        ],
+                        [
+                            1793122.81029363,
+                            629386.031970397
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "id": "49",
+            "type": "Feature",
+            "properties": {
+                "OBJECTID": 1496,
+                "STANPAR": "150160A04500CO",
+                "FEATURETYPE": "Lot",
+                "FLOORNUMBER": null,
+                "ParID": 259209,
+                "Tract": "37015631",
+                "Council": "08",
+                "TaxDist": "GSD",
+                "Owner": "BATRES, GILBERT S. ESCOBAR",
+                "OwnDate": 1479362400000,
+                "SalePrice": 195000,
+                "OwnInstr": "DB-20161121 0122343",
+                "OwnAddr1": "2708 WINDCREST TRL",
+                "OwnAddr2": "",
+                "OwnAddr3": "",
+                "OwnCity": "ANTIOCH",
+                "OwnState": "TN",
+                "OwnCountry": "US        ",
+                "OwnZip": "37013",
+                "PropAddr": "2708 WINDCREST TRL",
+                "PropHouse": "2708",
+                "PropFraction": null,
+                "PropStreet": "WINDCREST  TRL",
+                "PropSuite": null,
+                "PropCity": "ANTIOCH",
+                "PropState": "TN",
+                "PropZip": "37013",
+                "LegalDesc": "LOT 128 WINDHAVEN SHORES SEC 1",
+                "PropInstr": "PL-20030219 0021779",
+                "PropDate": 1045029600000,
+                "Acres": 0.12,
+                "Front": 56,
+                "Side": 90,
+                "IsRegular": "N",
+                "LUCode": "011",
+                "LUDesc": "SINGLE FAMILY",
+                "LandAppr": 54000,
+                "ImprAppr": 191500,
+                "TotlAppr": 245500,
+                "LandAssd": 13500,
+                "ImprAssd": 47875,
+                "TotlAssd": 61375,
+                "AssessDate": 1609480800000,
+                "Zoning": "RS10",
+                "Shape__Area": 5036.06494140625,
+                "Lat": 36.06109507100007,
+                "Lon": -86.59380351499999
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            1793042.91051905,
+                            629459.631888807
+                        ],
+                        [
+                            1792980.61044681,
+                            629394.931886971
+                        ],
+                        [
+                            1792940.21026513,
+                            629433.831743553
+                        ],
+                        [
+                            1793002.61040281,
+                            629498.531745389
+                        ],
+                        [
+                            1793042.91051905,
+                            629459.631888807
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
